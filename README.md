@@ -1,4 +1,15 @@
 ## Hi there 👋
+**$ whoami**
+- **$name:** Mohammad Noureldin (Nour)
+- **$day_job:** Senior Software Engineer @ DiManEx B.V.
+- **$pronouns:** He/Him
+- **$passion**
+  - OS Software
+  - OS Hardware
+  - Woodworking
+
+**Currently Busy With**
+- Learning [Rust Programming Language](https://www.rust-lang.org/)
 
 <!--
 **mnour/mnour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
