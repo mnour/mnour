@@ -9,7 +9,7 @@
   - Woodworking
 
 **Currently Busy With**
-- Learning [Rust Programming Language](https://www.rust-lang.org/)
+- Learning [:crab: Rust Programming Language :crab:](https://www.rust-lang.org/)
 
 <!--
 **mnour/mnour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
