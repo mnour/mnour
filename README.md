@@ -1,5 +1,5 @@
 ## Hi there 👋
-**$ whoami**
+**% whoami**
 - **$name:** Mohammad Noureldin (Nour)
 - **$day_job:** Senior Software Engineer @ DiManEx B.V.
 - **$pronouns:** He/Him
