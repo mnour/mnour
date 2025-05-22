@@ -1,5 +1,5 @@
 ## Hi there 👋
-**% whoami**
+**$ whoami**
 - **$name:** Mohammad Noureldin (Nour)
 - **$day_job:** Senior Software Engineer @ DiManEx B.V.
 - **$pronouns:** He/Him
@@ -9,7 +9,7 @@
   - Woodworking
 
 **Currently Busy With**
-- Learning [:crab: Rust Programming Language :crab:](https://www.rust-lang.org/)
+- Learning :crab:[Rust Programming Language](https://www.rust-lang.org/):crab:
 
 <!--
 **mnour/mnour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
